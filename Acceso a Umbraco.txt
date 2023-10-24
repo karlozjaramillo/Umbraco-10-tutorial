@@ -1,0 +1,4 @@
+https://localhost:44316/umbraco#/content
+
+User: carlos.jaramillo@flyrlabs.com
+Password: 1234567890
